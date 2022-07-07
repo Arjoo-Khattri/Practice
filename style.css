@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;800&family=Ubuntu:wght@300;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.sidebar{
+    background-color: lavender;
+    width: 600px;
+    font-family: 'Fira Sans' sans-serif;
+}
+.sidebar nav{
+    padding: 32px;
+}
+
+.sidebar nav li{
+    font-size: 26px;
+    list-style: none;
+    Padding: 30px 0;
+}
+.main{
+    background-color: cornsilk;
+}
+.container{
+    display:flex;
+}
